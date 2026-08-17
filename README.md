@@ -46,7 +46,7 @@ The dataset used in this assignment is the benchmark **Bank Marketing Dataset** 
 
 ## c. GitHub Repository Link
 
-- **GitHub Repository**: `https://github.com/asnaahmd/ml_assignment_2`
+- **GitHub Repository**: `https://github.com/Asna-Ahamed/bits-ml-assignment-2`
 - **Live Streamlit App**: `https://ml-assignment-2.streamlit.app` (Deploy on Streamlit Cloud)
 
 ### Repository Structure:
@@ -112,7 +112,7 @@ All 5 classification models were trained and evaluated on the same test partitio
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/bits-ml-assignment2.git
+   git clone https://github.com/Asna-Ahamed/bits-ml-assignment-2.git
    cd bits-ml-assignment2
    ```
 
