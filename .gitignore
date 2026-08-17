@@ -1,0 +1,12 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment & OS files
+.venv
+env/
+venv/
+.DS_Store
+Thumbs.db
+.streamlit/secrets.toml
