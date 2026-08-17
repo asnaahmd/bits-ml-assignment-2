@@ -48,7 +48,7 @@ The dataset used in this assignment is the benchmark **Bank Marketing Dataset** 
 ## c. GitHub Repository Link
 
 - **GitHub Repository**: `https://github.com/asnaahmd/bits-ml-assignment-2`
-- **Live Streamlit App**: `https://bits-ml-assignment-2-kmxvwtdayhbc9qmgmksnqw.streamlit.app/`
+- **Live Streamlit App**: `https://bits-ml-assignment-2.streamlit.app/`
 
 ### Repository Structure:
 
